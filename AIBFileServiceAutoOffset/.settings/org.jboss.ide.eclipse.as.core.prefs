@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.jboss.ide.eclipse.as.core.singledeployable.deployableList=src/main/java/com/scm/kafka/main/AIBFileUploadAutoOffsetConsumer.java\nsrc/main/java/com/scm/kafka/main/AIBInterfaceConsumerMain.java\nsrc/main/java/com/scm/kafka/main/AIBCustomerDataReadConsumer.java\nsrc/main/java/com/scm/kafka/main/OPLPublisher.java\n
